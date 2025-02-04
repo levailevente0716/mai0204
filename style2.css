@@ -1,0 +1,37 @@
+#spring{
+    color: green;
+    font-family: jaro;
+    font-style: italic;
+}
+
+#summer{
+    color: goldenrod;
+    font-family: "Hachi Maru Pop", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-variant: small-caps;
+    font-stretch: condensed;
+}
+
+#autumn{
+    color: firebrick;
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-variant: small-caps;
+    font-stretch: expanded;
+}
+
+#winter{
+    color: dodgerblue;
+}
+
+#main_title{
+    color: midnightblue;
+    font-size: 5em;
+}
+
+p{
+    font-weight: 652;
+    font-stretch: extra-expanded;
+}
